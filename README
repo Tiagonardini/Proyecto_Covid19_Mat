@@ -1,0 +1,2 @@
+## intalar las dependencias del proyecto
+- pip install pandas numpy matplotlib seaborn scipy
